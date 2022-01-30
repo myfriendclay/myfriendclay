@@ -52,3 +52,11 @@
 <a href="https://www.linkedin.com/in/blackiston/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Clay%20Blackiston%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:clayblackiston@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-clayblackiston@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+## FAQs
+
+### What is paragliding? Is it safe?
+
+It’s like hang gliding but instead of a fixed wing structure above you it’s a wing made of parachute-like material that can all fit into a big backpack (as pictured above). Using wind or your own ground speed (running) you inflate your wing overhead and then run off a steep hill (not quite a cliff) to take off. You land in an open field, avoiding obvious hazards like power lines, trees, and water. Usually, at least at the beginning stages like I am at, you are launching and landing at very “established” sites that people have flown thousands of times and that have more predictable weather conditions.
+<br>
+It depends what you mean by “safe”- I’m no expert (only started a couple years ago and have about 130 flights so far) but a lot of the safety comes down to picking your weather days and choosing not to fly when the weather is iffy. I’m definitely not on any kind of RedBull sponsored suicide mission (although If you’re interested in sponsoring DM me.)
