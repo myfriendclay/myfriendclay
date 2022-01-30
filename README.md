@@ -1,7 +1,7 @@
 <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/81726490_10218265025592095_2525004590349287424_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=7K-OGhfC5BYAX8tmYZT&_nc_ht=scontent-sin6-2.xx&oh=00_AT9KxihfJYwmRqxLHBon6WO4GrrmULk37cWjz0EaVrSgXQ&oe=621E2E50">
 
 
-<h2> Hey there, fellow Internet User! I'm Clay.</h2>
+<h2>👋 Hey there, fellow Internet User! I'm Clay.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
