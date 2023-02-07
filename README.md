@@ -5,9 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I enjoy building useful things and solving problems.
-- 💼 &nbsp; I've been working in tech, primarily as a Product Manager, for nearly a decade. Currently working at Amazon as an SDE on the Prime Video team
-- 💸 &nbsp; I worked at Knock CRM for 6 years, helping take us from 7 employees and no revenue to over 100 employees and $20M in revenue
-- 🎓 &nbsp; Graduated from 6 month full stack engineering bootcamp
+- 💼 &nbsp; I'm currently working at Amazon as an SDE on the Prime Video team
+- 💸 &nbsp; Prior I worked at Knock CRM for 6 years, helping take us from 7 employees and no revenue to over 100 employees and $20M in revenue and a 9 figure acquisition
 - 🪂 &nbsp; Outside of computers, I'm an avid paragliding pilot and a brown belt in Brazilian Jiu Jitsu
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
