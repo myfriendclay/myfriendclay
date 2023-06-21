@@ -1,6 +1,6 @@
 <h2>👋 Hey there, fellow Internet User! I'm Clay.</h2>
 
-<img src="[https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/81726490_10218265025592095_2525004590349287424_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=e3f864&_nc_ohc=-s688dnOvMcAX_wMoyU&tn=u9i8aCjOH4BRAf5d&_nc_ht=scontent-sea1-1.xx&oh=00_AT9XFN6S7PjFkhH74u1qy4VBty8GGRxB8mdFjsPCwYxEkA&oe=62A0B2D0](https://media.licdn.com/dms/image/C5616AQH3F6x5kM9RpA/profile-displaybackgroundimage-shrink_350_1400/0/1653430747921?e=1692835200&v=beta&t=84t79kzH6Gg0ZzxQYNvhokFkavaVgYG6Eeza1-GUV5Q)">
+<img src="https://media.licdn.com/dms/image/C5616AQH3F6x5kM9RpA/profile-displaybackgroundimage-shrink_350_1400/0/1653430747921?e=1692835200&v=beta&t=84t79kzH6Gg0ZzxQYNvhokFkavaVgYG6Eeza1-GUV5Q">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
