@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I enjoy building useful things and solving problems.
-- 💼 &nbsp; I'm currently working at Amazon as an SDE on the Prime Video team
-- 💸 &nbsp; Prior I worked at Knock CRM for 6 years, helping take us from 7 employees and no revenue to over 100 employees and $20M in revenue and a 9 figure acquisition
+- 💼 &nbsp; I'm currently working at Atlassian as an SDE in the Admin Hub, Enterprise Security
+- 💸 &nbsp; Prior I worked at Amazon Prime video for a year as an SDE, and prior to that at Knock CRM for 6 years, helping take us from 7 employees and no revenue to over 100 employees and $20M in revenue and a 9 figure acquisition
 - 🪂 &nbsp; Outside of computers, I'm an avid paragliding pilot and a brown belt in Brazilian Jiu Jitsu
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
